@@ -7,3 +7,10 @@ To use it, clone this repository, then open the folder in Visual Studio Code.  O
 You will then be prompted to enter a database URL.  This is the URL you will see above the data for a Firebase Realtime Database.  In the example below, the database URL would be https://pythonfirebasetest-cffad-default-rtdb.firebaseio.com/
 
 ![PythonFirebase1](https://user-images.githubusercontent.com/43326454/158519236-ac7f6106-301a-4edf-b60b-e4d837fbedfe.jpg)
+
+After entering the database URL, there will be 5 choices you can make by pressing a number followed by the Enter key.  They are:
+1 for Create data
+2 for Read data
+3 for Update data
+4 for Delete data
+5 to Exit the program
