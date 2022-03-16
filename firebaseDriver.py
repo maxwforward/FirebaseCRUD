@@ -25,6 +25,7 @@ while exitProgram is False:
     print('3 - Update')
     print('4 - Delete')
     print('5 - Exit')
+    print('\n')
     option = input()
 
     # Perform selected option
