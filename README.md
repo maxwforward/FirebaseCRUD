@@ -1,4 +1,4 @@
-# Firebase Realtime Database CRUD Operations
+# Firebase CRUD
 
 This application can perform all of the CRUD operations (Create, Read, Update, and Delete) on a Firebase Realtime Database.  
 
