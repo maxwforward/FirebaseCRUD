@@ -8,4 +8,4 @@ You will then be prompted to enter a database URL.  This is the URL you will see
 
 ![PythonFirebase1](https://user-images.githubusercontent.com/43326454/158519236-ac7f6106-301a-4edf-b60b-e4d837fbedfe.jpg)
 
-After entering the database URL, there will be five choices you can make by pressing a number followed by the Enter key.  They are: '1' to create data, '2' to read data, '3' to update data, '4' to delete data, and '5' to exit the program.
+After entering the database URL, there will be five choices you can make by pressing a number followed by the Enter key.  They are: 1 to create data, 2 to read data, 3 to update data, 4 to delete data, and 5 to exit the program.
